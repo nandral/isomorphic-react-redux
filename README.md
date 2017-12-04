@@ -2,6 +2,8 @@
 
 Isomorphic SPA developed using react, react-router, redux, express, babel, wepback etc..
 
+### Demo on Heroku https://nandral-ssr-react-redux.herokuapp.com/
+
 #### Modern JavaScript features used
 
 * es2017 (async/await) - modern way of handling asynchronous JavaScript code
