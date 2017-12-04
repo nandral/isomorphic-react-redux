@@ -4,10 +4,11 @@ const Home = props => {
   // console.log(props.match);
   const car = props.carOfTheWeek;
   return (
-    <div className="" style={{ marginTop: "30px" }}>
-      <h5>Car of the week</h5>
+    <div className="container" style={{ marginTop: "30px" }}>
       <div className="alert alert-light col-9" role="alert">
-        <h4 className="alert-heading">{car.name}</h4>
+        <h2>Car of the week</h2>
+
+        <h5 className="alert-heading">{car.name}</h5>
         <img src={car.imageUrl} className="img-fluid" alt="Responsive image" />
         <p>{car.review}</p>
         <hr />

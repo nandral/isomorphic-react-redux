@@ -488,17 +488,17 @@ var Home = function Home(props) {
   var car = props.carOfTheWeek;
   return _react2.default.createElement(
     "div",
-    { className: "", style: { marginTop: "30px" } },
-    _react2.default.createElement(
-      "h5",
-      null,
-      "Car of the week"
-    ),
+    { className: "container", style: { marginTop: "30px" } },
     _react2.default.createElement(
       "div",
       { className: "alert alert-light col-9", role: "alert" },
       _react2.default.createElement(
-        "h4",
+        "h2",
+        null,
+        "Car of the week"
+      ),
+      _react2.default.createElement(
+        "h5",
         { className: "alert-heading" },
         car.name
       ),
@@ -692,9 +692,9 @@ exports.default = function () {
         _reactRouterDom.Link,
         { to: "/", className: "navbar-brand" },
         _react2.default.createElement(
-          "h4",
+          "h2",
           null,
-          "Cars"
+          "Cars Catalog"
         )
       ),
       _react2.default.createElement(
