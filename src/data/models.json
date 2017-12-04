@@ -44,7 +44,7 @@
     "name": "1",
     "price": 83000,
     "imageUrl":
-      "http://www.bmw.com.au/content/dam/bmw/common/all-models/1-series/5-door/2015/at-a-glance/design-fw-exterieur-01.jpg/jcr:content/renditions/cq5dam.resized.img.585.low.time1447923462248.jpg"
+      "https://www.bmw.co.za/content/dam/bmw/common/all-models/1-series/5-door/2017/navigation/BMW-1-Series%205-door_Modelcard.png/_jcr_content/renditions/cq5dam.resized.img.585.low.time1496841479848.png"
   },
   {
     "id": 310,
@@ -52,7 +52,7 @@
     "name": "2",
     "price": 125000,
     "imageUrl":
-      "http://www.bmw.com.au/content/dam/bmw/common/all-models/2-series/coupe/2013/at-a-glance/Exterieur-design-03.jpg/jcr:content/renditions/cq5dam.resized.img.585.low.time1470324214485.jpg"
+      "https://www.bmwusa.com/content/dam/bmwusa/2Series/Coupe/2018-b/BMW_2Series_Coupe_Design_03.png"
   },
   {
     "id": 320,
@@ -60,7 +60,7 @@
     "name": "3",
     "price": 150000,
     "imageUrl":
-      "http://www.bmw.com.au/content/dam/bmw/common/all-models/3-series/sedan/2015/at-a-glance/3-series-sedan-design.jpg/jcr:content/renditions/cq5dam.resized.img.585.low.time1447942773188.jpg"
+      "https://www.bmw.in/content/dam/bmw/common/all-models/3-series/sedan/2015/at-a-glance/3-series-sedan-sport-line-01.jpg/_jcr_content/renditions/cq5dam.resized.img.485.low.time1447942782907.jpg"
   },
   {
     "id": 400,
